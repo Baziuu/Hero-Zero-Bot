@@ -1,0 +1,15 @@
+name: Feature request
+description: Suggest a new feature or improvement for the Hero Zero bot
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like the bot to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: Which part of Hero Zero does it save time on?
