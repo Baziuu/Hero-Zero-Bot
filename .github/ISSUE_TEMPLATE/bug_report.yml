@@ -1,0 +1,47 @@
+name: Bug report
+description: Something in the Hero Zero bot isn't working as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! **Never post your license key, password or account login here** – this repository is public.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Training
+        - Duels / League
+        - Hideout
+        - Missions
+        - Villains / World boss
+        - Quests
+        - Casino
+        - Mole Hunt
+        - Inventory
+        - Rewards
+        - Guild
+        - Dashboard
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what did the bot do instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: input
+    id: server
+    attributes:
+      label: Hero Zero server / world
+  - type: input
+    id: version
+    attributes:
+      label: VereonX version
