@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: License, payment or account help
+    url: https://discord.gg/vereon
+    about: Open a ticket in #create-ticket on the VereonX Discord. Never post your license key here.
+  - name: Website
+    url: https://vereon.xyz/
+    about: Features and FAQ.
