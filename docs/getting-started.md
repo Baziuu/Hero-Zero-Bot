@@ -25,7 +25,7 @@ Good to know:
 
 ## Need help?
 
-Open a ticket in `#create-ticket` on [Discord](https://discord.gg/vereon). Found a bug or have an idea? [Open an issue](https://github.com/Baziuu/HeroZeroBot/issues/new/choose).
+Open a ticket in `#create-ticket` on [Discord](https://discord.gg/vereon). Found a bug or have an idea? [Open an issue](https://github.com/Baziuu/Hero-Zero-Bot/issues/new/choose).
 
 ---
 
@@ -54,4 +54,4 @@ Warto wiedzieć:
 
 ### Potrzebujesz pomocy?
 
-Załóż ticket na kanale `#create-ticket` na [Discordzie](https://discord.gg/vereon). Znalazłeś błąd albo masz pomysł? [Zgłoś issue](https://github.com/Baziuu/HeroZeroBot/issues/new/choose).
+Załóż ticket na kanale `#create-ticket` na [Discordzie](https://discord.gg/vereon). Znalazłeś błąd albo masz pomysł? [Zgłoś issue](https://github.com/Baziuu/Hero-Zero-Bot/issues/new/choose).

@@ -68,7 +68,7 @@ Więcej pytań: **[docs/faq.md](docs/faq.md)**
 ## Pomoc
 
 - 💬 Pytania i sprawy licencji: załóż ticket na kanale `#create-ticket` na [Discordzie](https://discord.gg/vereon)
-- 🐞 Błędy i pomysły: [zgłoś issue](https://github.com/Baziuu/HeroZeroBot/issues/new/choose) w tym repozytorium
+- 🐞 Błędy i pomysły: [zgłoś issue](https://github.com/Baziuu/Hero-Zero-Bot/issues/new/choose) w tym repozytorium
 
 ---
 

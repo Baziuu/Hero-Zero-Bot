@@ -18,7 +18,7 @@
 
 ## What is VereonX?
 
-**VereonX** is an automation bot for **Hero Zero**. It plays your Hero Zero account for you – training, fighting duels and league battles, running the hideout, doing quests and more – 24/7, even while you're away.
+**VereonX** is a **Hero Zero bot** that plays your Hero Zero account for you – training, fighting duels and league battles, running the hideout, doing quests and more – 24/7, even while you're away.
 
 It makes smart choices, not random clicks: it only keeps real upgrades, sells what you don't need, and respects your daily limits. Run the Hero Zero bot on multiple accounts at once and follow everything from one simple dashboard.
 
@@ -68,7 +68,7 @@ More questions: **[docs/faq.md](docs/faq.md)**
 ## Support
 
 - 💬 Questions and license issues: open a ticket in `#create-ticket` on [Discord](https://discord.gg/vereon)
-- 🐞 Bugs and ideas: [open an issue](https://github.com/Baziuu/HeroZeroBot/issues/new/choose) in this repository
+- 🐞 Bugs and ideas: [open an issue](https://github.com/Baziuu/Hero-Zero-Bot/issues/new/choose) in this repository
 
 ---
 
